@@ -1,0 +1,8 @@
+functions-framework==3.5.0
+google-auth==2.29.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.127.0
+google-cloud-storage==2.16.0
+google-cloud-secret-manager==2.20.0
+ebooklib==0.18
+sendgrid==6.11.0
